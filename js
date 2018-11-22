@@ -1,5 +1,5 @@
-一、数据类型常用API
-1、String
+一、常用API
+1. String
  属性
 String.prototype
 String.length
@@ -53,3 +53,48 @@ String.prototype.trimLeft()
 String.prototype.valueOf()
 String.prototype[@@iterator]()
 String.raw()
+2. Array
+属性
+Array.length
+Array.prototype
+Array.prototype[@@unscopables]
+方法
+Array.from()
+Array.isArray()
+Array.observe()
+Array.of()
+Array.prototype.concat()
+Array.prototype.copyWithin()
+Array.prototype.entries()
+Array.prototype.every()
+Array.prototype.fill()
+Array.prototype.filter()
+Array.prototype.find()
+Array.prototype.findIndex()
+Array.prototype.flat()
+Array.prototype.flatMap()
+Array.prototype.forEach()
+Array.prototype.includes()
+Array.prototype.indexOf()
+Array.prototype.join()
+Array.prototype.keys()
+Array.prototype.lastIndexOf()
+Array.prototype.map()
+Array.prototype.pop()
+Array.prototype.push()
+Array.prototype.reduce()
+Array.prototype.reduceRight()
+Array.prototype.reverse()
+Array.prototype.shift()
+Array.prototype.slice()
+Array.prototype.some()
+Array.prototype.sort()
+Array.prototype.splice()
+Array.prototype.toLocaleString()
+Array.prototype.toSource()
+Array.prototype.toString()
+Array.prototype.unshift()
+Array.prototype.values()
+Array.prototype[@@iterator]()
+Array.unobserve()
+get Array[@@species]
