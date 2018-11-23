@@ -98,3 +98,6 @@ Array.prototype.values()
 Array.prototype[@@iterator]()
 Array.unobserve()
 get Array[@@species]
+3. Object
+
+4. AJAX
