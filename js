@@ -145,4 +145,33 @@ Object.seal()
 Object.setPrototypeOf()
 Object.unobserve()
 Object.values()
-4. AJAX
+4. XMLHttpRequest
+属性
+channel
+mozAnon
+mozBackgroundRequest
+mozResponseArrayBuffer 
+mozSystem 
+multipart 
+onreadystatechange
+readyState
+response
+responseText
+responseType
+responseURL
+responseXML
+status
+statusText
+timeout
+upload
+withCredentials
+方法
+abort()
+getAllResponseHeaders()
+getResponseHeader()
+open()
+openRequest()
+overrideMimeType()
+send()
+sendAsBinary()
+setRequestHeader()
